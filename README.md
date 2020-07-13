@@ -1,4 +1,4 @@
-# vue-components
+# vue-filterAndComputedProperties
 
 > trying vue nesting components for different app in a webpage
 
